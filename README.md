@@ -11,7 +11,7 @@ I've been studying the web since 2021 (before that I was in GameDev)
 - ⚙️ My stack: NodeJS, VueJS, TypeScript, Python, SCSS
 
 *   🌍  I'm based in Sakhalin island
-*   🖥️  See my portfolio at [my page😶‍🌫️](http://vkidik.ru)
+*   🖥️  See my portfolio at [my page😶‍🌫️](https://vkidik.ru)
 *   ✉️  You can contact me at [Telegram](https://t.me/young_vykqq)
 *   🧠  I'm learning Crypto exchanges, earnings on them, and a breakdown of their documentation. Such as MEXC and BitMart
 *   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges Meanwhile I have unrealisable companies - WebWave and PaceMusic
@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/vkidik?logo=github&style=for-the-ba
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vkidik/MEXC_FUTURE_public" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vkidik&repo=MEXC_FUTURE_public&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vkidik/MEXC_FUTURE_public" align="left"><img align="left" width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=vkidik&repo=MEXC_FUTURE_public&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
