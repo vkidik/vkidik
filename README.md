@@ -19,6 +19,8 @@ I've been studying the web since 2021 (before that I was in GameDev)
 *   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges Meanwhile I have unrealisable companies - WebWave and PaceMusic
 *   ⚡  I'm the secret spider-man.... but no one can know that
 
+Projects use [gitignore.io](https://www.gitignore.io/api/) to create .gitignore 
+
 <a href="https://www.github.com/vkidik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vkidik?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
@@ -36,8 +38,6 @@ src="https://img.shields.io/github/followers/vkidik?logo=github&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/vkidik"><img src="https://github-readme-stats.vercel.app/api?username=vkidik&show_icons=true&hide=prs,issues,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="vkidik's GitHub stats" /></a>
-
-<a href="http://www.github.com/vkidik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vkidik&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/vkidik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkidik&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
