@@ -20,7 +20,7 @@ I've been studying the web since 2021 (before that I was in GameDev)
 *   ⚡  I'm the secret spider-man.... but no one can know that
 <br>
 - Wallet(TON): UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC 
-
+<br>
 Projects use [gitignore.io](https://www.gitignore.io/) to create .gitignore 
 
 <a href="https://www.github.com/vkidik" target="_blank" rel="noreferrer"><img
