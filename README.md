@@ -18,8 +18,7 @@ I've been studying the web since 2021 (before that I was in GameDev)
 *   🧠  I'm learning Crypto exchanges, earnings on them, and a breakdown of their documentation. Such as MEXC and BitMart
 *   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges Meanwhile I have unrealisable companies - WebWave and PaceMusic
 *   ⚡  I'm the secret spider-man.... but no one can know that
-
-- [Telegram](https://t.me/young_vykqq) 
+<br>
 - Wallet(TON): UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC 
 
 Projects use [gitignore.io](https://www.gitignore.io/) to create .gitignore 
