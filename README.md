@@ -19,6 +19,9 @@ I've been studying the web since 2021 (before that I was in GameDev)
 *   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges Meanwhile I have unrealisable companies - WebWave and PaceMusic
 *   ⚡  I'm the secret spider-man.... but no one can know that
 
+- [Telegram](https://t.me/young_vykqq) 
+- Wallet(TON): UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC 
+
 Projects use [gitignore.io](https://www.gitignore.io/) to create .gitignore 
 
 <a href="https://www.github.com/vkidik" target="_blank" rel="noreferrer"><img
@@ -47,7 +50,7 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vkidik/MEXC_FUTURE_public" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=vkidik&repo=MEXC_FUTURE_public&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vkidik/MEXC_FUTURES" align="left"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=vkidik&repo=MEXC_FUTURE_public&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
