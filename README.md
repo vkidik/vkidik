@@ -10,17 +10,16 @@ I've been studying the web since 2021 (before that I was in GameDev)
 
 - 🔭 Worked as a software engineer and participated in frontend and backend development to create websites, web applications and Telegram bots
 - 👨‍💻 Now I'm freelancing
-- ⚙️ My stack at now: NodeJS, VueJS, Python, SCSS
+- ⚙️ My stack at now: NodeJS, Python(Junior)
 
 *   🌍  I'm based in Sakhalin island
 *   🖥️  See my portfolio at [my page😶‍🌫️](https://vkidik.ru)
 *   ✉️  You can contact me at [Telegram](https://t.me/young_vykqq)
 *   💴  Wallet(TON): UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC 
 *   🧠  I'm learning Crypto exchanges, earnings on them, and a breakdown of their documentation. Such as MEXC and BitMart
-*   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges Meanwhile I have unrealisable companies - WebWave and PaceMusic
-*   ⚡  I'm the secret spider-man.... but no one can know that
+*   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges
 
-Projects use [gitignore.io](https://www.gitignore.io/) to create .gitignore 
+<!-- For projects use [gitignore.io](https://www.gitignore.io/) to create .gitignore -->
 
 <a href="https://www.github.com/vkidik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vkidik?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
