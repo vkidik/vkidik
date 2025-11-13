@@ -15,7 +15,6 @@ I've been studying the web since 2021 (before that I was in GameDev)
 *   🌍  I'm based in Sakhalin island
 *   🖥️  See my portfolio at [my page😶‍🌫️](https://vkidik.ru)
 *   ✉️  You can contact me at [Telegram](https://t.me/young_vykqq)
-*   💴  Wallet(TON): UQBi_7B2ojQuSFCc9R5rDzyoL-tiPE9CagLobnI1IYrBzJJC 
 *   🧠  I'm learning Crypto exchanges, earnings on them, and a breakdown of their documentation. Such as MEXC and BitMart
 *   🤝  I'm open to collaborating on I am ready to collaborate on interesting and large(maybe small) projects :) I would also like to cooperate with crypto exchanges
 
